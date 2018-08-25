@@ -1,6 +1,5 @@
-# NodeExpressApplication
+# NodeExpressApplication ![alt text](https://travis-ci.org/cooligc/NodeExpressApplication.svg?branch=master)
 ---
-
 This is a simple application demonstrate node.js along with express.js for developing RESTful application. This application also has the integration tests along with mock test for the application.
 
 ### Java Script Library Used
