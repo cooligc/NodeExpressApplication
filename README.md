@@ -1,4 +1,4 @@
-# NodeExpressApplication ![alt text](https://travis-ci.org/cooligc/NodeExpressApplication.svg?branch=master)
+# NodeExpressApplication ![alt text](https://travis-ci.org/cooligc/NodeExpressApplication.svg?branch=master) ![alt open-contribution](https://img.shields.io/badge/contribution-open-brightgreen.svg)
 ---
 This is a simple application demonstrate node.js along with express.js for developing RESTful application. This application also has the integration tests along with mock test for the application.
 
@@ -27,3 +27,7 @@ This is a simple application demonstrate node.js along with express.js for devel
 
 ### How to run tests ? 
 - execute ``gulp test`` and this will pull the test task where we have already configure the test job
+
+
+### Badges
+I got badge from [here](https://shields.io/#/)
